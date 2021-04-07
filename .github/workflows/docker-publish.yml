@@ -11,7 +11,7 @@ on:
       - v*
 
 env:
-  IMAGE_NAME: bayraak/cucina-back-end-docker
+  IMAGE_NAME: cucina-back-end-docker
 
 jobs:
   push:
